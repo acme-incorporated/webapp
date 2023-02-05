@@ -68,4 +68,9 @@ None
 
 ## Leaderboard
 
-[![Algora Leaderboard](https://console.algora.io/api/og/remotion/leaderboard)](https://console.algora.io/org/remotion/leaderboard)
+<a href="https://console.algora.io/org/remotion/leaderboard">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=https://console.algora.io/api/og/remotion/dark">
+    <img alt="Remotion Leaderboard" src="https://console.algora.io/api/og/remotion/light">
+  </picture>
+</a>
