@@ -61,3 +61,11 @@ Be aware of that Remotion has a special license and requires obtaining a company
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) to learn about contributing to this project.
+
+## Available Bounties
+
+None
+
+## Leaderboard
+
+[![Algora Leaderboard](https://console.algora.io/api/og/remotion/leaderboard)](https://console.algora.io/org/remotion/leaderboard)
