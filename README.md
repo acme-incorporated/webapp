@@ -4,10 +4,10 @@ None
 
 ## Leaderboard
 
-<a href="/org/remotion/leaderboard">
+<a href="https://console.algora.io/org/remotion/leaderboard">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/api/og/remotion/leaderboard.png?p=0&theme=dark">
-    <img alt="Leaderboard of Remotion" src="/api/og/remotion/leaderboard.png?p=0&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/remotion/leaderboard.png?p=0&theme=dark">
+    <img alt="Leaderboard of Remotion" src="https://console.algora.io/api/og/remotion/leaderboard.png?p=0&theme=light">
   </picture>
 </a>
 
