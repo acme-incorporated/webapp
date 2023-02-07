@@ -1,3 +1,16 @@
+## Available Bounties
+
+None
+
+## Leaderboard
+
+<a href="/org/remotion/leaderboard">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/api/og/remotion/leaderboard.png?p=0&theme=dark">
+    <img alt="Leaderboard of Remotion" src="/api/og/remotion/leaderboard.png?p=0&theme=light">
+  </picture>
+</a>
+
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
     <picture>
@@ -62,15 +75,3 @@ Be aware of that Remotion has a special license and requires obtaining a company
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) to learn about contributing to this project.
 
-## Available Bounties
-
-None
-
-## Leaderboard
-
-<a href="https://console.algora.io/org/remotion/leaderboard">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/remotion/leaderboard.png?p=0&theme=dark">
-    <img alt="Leaderboard of Remotion" src="https://console.algora.io/api/og/remotion/leaderboard.png?p=0&theme=light">
-  </picture>
-</a>
