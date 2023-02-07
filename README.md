@@ -70,7 +70,7 @@ None
 
 <a href="https://console.algora.io/org/remotion/leaderboard">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/remotion/leaderboard/snippet-dark.png">
-    <img alt="Bounties leaderboard of Remotion" src="https://console.algora.io/api/og/remotion/leaderboard/snippet-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/remotion/leaderboard.png?p=0&theme=dark">
+    <img alt="Leaderboard of Remotion" src="https://console.algora.io/api/og/remotion/leaderboard.png?p=0&theme=light">
   </picture>
 </a>
