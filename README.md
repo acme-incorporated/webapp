@@ -1,6 +1,11 @@
 ## Available Bounties
 
-None
+<a href="https://console.algora.io/org/remotion/bounties?status=completed">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/remotion/bounties.png?p=0&status=completed&theme=dark">
+    <img alt="Bounties of Remotion" src="https://console.algora.io/api/og/remotion/bounties.png?p=0&status=completed&theme=light">
+  </picture>
+</a>
 
 ## Leaderboard
 
