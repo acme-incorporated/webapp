@@ -1,5 +1,3 @@
-## Shields
-
 [![Open Bounties](https://img.shields.io/endpoint?url=https%3A%2F%2Fconsole.algora.io%2Fapi%2Fshields%2Fremotion%2Fbounties%3Fstatus%3Dopen)](https://console.algora.io/org/remotion/bounties?status=open)
 
 [![Rewarded Bounties](https://img.shields.io/endpoint?url=https%3A%2F%2Fconsole.algora.io%2Fapi%2Fshields%2Fremotion%2Fbounties%3Fstatus%3Dcompleted)](https://console.algora.io/org/remotion/bounties?status=completed)
